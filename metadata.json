@@ -1,0 +1,6 @@
+{
+  "name": "Ravi Cafe | Faridabad, Haryana",
+  "description": "Ravi Cafe - a registered MSME cafe in Jawahar Colony, Faridabad, Haryana serving fresh food and beverages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
